@@ -1,1 +1,2 @@
-# depende de las librerías utilizadas, ver: https://gitignore.io
+__pycache__/
+venv/
